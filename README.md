@@ -22,4 +22,5 @@ obtenus pour les 3 dés.
 # Home
 ![java3](https://user-images.githubusercontent.com/108592629/235283248-bdc73f84-1079-4768-bd82-4e8b1f8c3673.png)
 # Results
-![java4](https://user-images.githubusercontent.com/108592629/235283254-22cecdd1-ee5c-4ee1-a9ed-d83a675bfdfb.png)
+![image](https://user-images.githubusercontent.com/108592629/235306704-39db2dad-a2b5-4b15-afb8-89cc60184d0d.png)
+
