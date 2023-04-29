@@ -15,12 +15,15 @@ obtenus pour les 3 dés.
 
 # Interface 
 
-# Inscription
-![java1](https://user-images.githubusercontent.com/108592629/235283231-fce53bda-3c9f-4e0e-aa26-86985e7fe158.png)
-# Login
-![java2](https://user-images.githubusercontent.com/108592629/235283240-6f60b76e-0f3b-49ee-a142-859d01a6165a.png)
-# Home
+# *Inscription
+![image](https://user-images.githubusercontent.com/108592629/235306968-7804510b-670f-464c-bc31-5edac5868444.png)
+
+# *Login
+![image](https://user-images.githubusercontent.com/108592629/235307058-31b01012-863d-47a3-8f9e-bf37d6aea7ed.png)
+
+# *Home
 ![java3](https://user-images.githubusercontent.com/108592629/235283248-bdc73f84-1079-4768-bd82-4e8b1f8c3673.png)
-# Results
+
+# *Results
 ![image](https://user-images.githubusercontent.com/108592629/235306704-39db2dad-a2b5-4b15-afb8-89cc60184d0d.png)
 
