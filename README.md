@@ -6,12 +6,12 @@
 * Si un joueur lance un même dé plus qu’une fois l’application arrête la partie de jeu et le joueur reçoit un score = -1. 
 * Si le résultat (dé 1) < résultat (dé 2) < résultat (dé 3) --> le joueur reçoit un score égal 
 à la somme des résultats obtenus pour les 3 dés.
-* Si le résultat (dé 1) > résultat (dé 2) > résultat (dé 3) alors le joueur reçoit un score égal au produit des résultats 
+* Si le résultat (dé 1) > résultat (dé 2) > résultat (dé 3) --> le joueur reçoit un score égal au produit des résultats 
 obtenus pour les 3 dés.
 * Sinon il reçoit un score nul. 
 * L’application doit arrêter la partie une fois on peut conclure à propos du score.
-##### Une partie de jeu se termine donc soit après avoir lancé les 3 dés ou suite à une faute de lancement d’un même dé deux fois ou car la condition « résultat (dé 1 < résultat (dé 2) < résultat (dé 3) ou résultat (dé 1) > résultat (dé 2) > résultat (dé 3) » n’est pas remplie.
-##### A la fin d’une partie, l’application affiche le score de la partie qui vient d’être jouée ainsi que le meilleur score enregistré sur l’application
+* Une partie de jeu se termine donc soit après avoir lancé les 3 dés ou suite à une faute de lancement d’un même dé deux fois ou car la condition « résultat (dé 1 < résultat (dé 2) < résultat (dé 3) ou résultat (dé 1) > résultat (dé 2) > résultat (dé 3) » n’est pas remplie.
+* A la fin d’une partie, l’application affiche le score de la partie qui vient d’être jouée ainsi que le meilleur score enregistré sur l’application
 
 # Interface 
 
